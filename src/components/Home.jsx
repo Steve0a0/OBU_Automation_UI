@@ -34,7 +34,7 @@ const Home = React.memo(() => {
     formData.append('file', uploadedFile);
 
     try {
-      const response = await fetch('http://localhost:8000/api/upload/', {
+      const response = await fetch('http://3.253.161.234:8000/api/upload/', {
         method: 'POST',
         body: formData,
       });
