@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OBU_Automation_UI/static/css/main.1c24185c.css",
+    "main.js": "/OBU_Automation_UI/static/js/main.d4ed7ab8.js",
+    "index.html": "/OBU_Automation_UI/index.html",
+    "main.1c24185c.css.map": "/OBU_Automation_UI/static/css/main.1c24185c.css.map",
+    "main.d4ed7ab8.js.map": "/OBU_Automation_UI/static/js/main.d4ed7ab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c24185c.css",
+    "static/js/main.d4ed7ab8.js"
+  ]
+}
