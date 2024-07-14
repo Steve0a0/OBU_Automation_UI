@@ -1,5 +1,5 @@
 {
-  "homepage":"https://Steve0a0.github.io/OBU_Automation_UI",
+  "homepage": "https://Steve0a0.github.io/OBU_Automation_UI",
   "name": "onebill_automation_upload_ui",
   "version": "0.1.0",
   "private": true,
@@ -22,8 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -48,6 +48,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4",
     "user-event": "^4.0.0"
