@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/OBU_Automation_UI/static/css/main.1c24185c.css",
-    "main.js": "/OBU_Automation_UI/static/js/main.ee30abda.js",
+    "main.js": "/OBU_Automation_UI/static/js/main.67771087.js",
     "index.html": "/OBU_Automation_UI/index.html",
     "main.1c24185c.css.map": "/OBU_Automation_UI/static/css/main.1c24185c.css.map",
-    "main.ee30abda.js.map": "/OBU_Automation_UI/static/js/main.ee30abda.js.map"
+    "main.67771087.js.map": "/OBU_Automation_UI/static/js/main.67771087.js.map"
   },
   "entrypoints": [
     "static/css/main.1c24185c.css",
-    "static/js/main.ee30abda.js"
+    "static/js/main.67771087.js"
   ]
 }
